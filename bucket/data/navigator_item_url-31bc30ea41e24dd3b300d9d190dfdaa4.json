@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "navigator_item_url": {
+      "31bc30ea41e24dd3b300d9d190dfdaa4": {
+        "color": "",
+        "created": "1537485641974",
+        "icon": "fontawesome:home",
+        "id": "31bc30ea41e24dd3b300d9d190dfdaa4",
+        "label": "Home",
+        "meta_alias": "",
+        "meta_classification": "",
+        "meta_schema": "",
+        "order": "0",
+        "owner": "ae90b6c9b3174c8aa6b26a7cc1e2aef2",
+        "parent": "db3744bbe7df49e9b686fc4b065aac96",
+        "schema_version": "0",
+        "system_updated": "0",
+        "url": ""
+      }
+    }
+  }
+}
