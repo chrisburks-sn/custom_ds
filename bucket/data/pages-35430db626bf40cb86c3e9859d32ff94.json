@@ -1,23 +1,39 @@
 {
   "bucket_data": {
     "pages": {
-      "60d3afb2e9e64d808df0c4cc3db8d6e7": {
-        "created": "1537485642088",
-        "id": "60d3afb2e9e64d808df0c4cc3db8d6e7",
+      "35430db626bf40cb86c3e9859d32ff94": {
+        "created": "1542327843498",
+        "id": "35430db626bf40cb86c3e9859d32ff94",
         "layout": {
           "__start__": {
-            "contains": [ ],
+            "contains": [
+              "component_f6fccf2316c41ab1c6b6582da9c823cb"
+            ],
             "h": "100%",
             "id": "__start__",
             "layout_type": "page_components",
             "type": "container",
+            "w": "100%"
+          },
+          "component_f6fccf2316c41ab1c6b6582da9c823cb": {
+            "attributes": {
+              "component": "angular_example",
+              "id": "21ff98f252f2b0d05a865b6cff617ab8"
+            },
+            "component": "angular_example",
+            "h": "100%",
+            "id": "component_f6fccf2316c41ab1c6b6582da9c823cb",
+            "name": "component_f6fccf2316c41ab1c6b6582da9c823cb",
+            "needs_subpage_target": false,
+            "page_loading": false,
+            "type": "component",
             "w": "100%"
           }
         },
         "meta_alias": "",
         "meta_classification": "",
         "meta_schema": "",
-        "name": "home",
+        "name": "",
         "owner": "ae90b6c9b3174c8aa6b26a7cc1e2aef2",
         "page_vars": {
           "layout": {
